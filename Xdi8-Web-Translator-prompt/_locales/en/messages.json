@@ -1,0 +1,20 @@
+{
+    "langCode": {
+        "message": "en"
+    },
+    "extensionName": {
+        "message": "Translation Xdi8（prompt）"
+    },
+    "extensionDescription": {
+        "message": "Translate the page into Xdi8 and click to display Chinese characters. (hover if it is a hyperlink)"
+    },
+    "contextMenuItemDoInjectXdi8": {
+        "message": "Translation Xdi8"
+    },
+    "popupCheckboxText": {
+        "message": "Inject automatically"
+    },
+    "refreshPromptText": {
+        "message": "Please refresh the page for the change to take effect."
+    }
+}

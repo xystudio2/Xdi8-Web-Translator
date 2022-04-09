@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'XEGO';
+    /*src: url('chrome-extension://__MSG_@@extension_id__/content_scripts/FiraXdi8Variable-subset.woff2') format('woff2-variations');*/
+    src: url('chrome-extension://__MSG_@@extension_id__/content_scripts/XEGOEALL.ttf') format('truetype');
+    /*font-weight: 100 900;*/
+}
+
+/*ruby.inject-xdi8>rt {
+    font-size: 0.74em;
+    font-variant: initial;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    text-transform: initial;
+}*/
+
+ruby.inject-xdi8:lang(art-x-xd) {
+    font-family: 'XEGO', sans-serif;
+}

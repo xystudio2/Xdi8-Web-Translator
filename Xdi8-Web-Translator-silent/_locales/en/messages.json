@@ -1,0 +1,20 @@
+{
+    "langCode": {
+        "message": "en"
+    },
+    "extensionName": {
+        "message": "Translation Xdi8 (silent)"
+    },
+    "extensionDescription": {
+        "message": "Translate the page into Xdi8 with capital letters. No hint."
+    },
+    "contextMenuItemDoInjectXdi8": {
+        "message": "Translation Xdi8"
+    },
+    "popupCheckboxText": {
+        "message": "Inject automatically"
+    },
+    "refreshPromptText": {
+        "message": "Please refresh the page for the change to take effect."
+    }
+}

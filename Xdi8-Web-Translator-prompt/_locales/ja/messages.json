@@ -1,0 +1,20 @@
+{
+    "langCode": {
+        "message": "ja"
+    },
+    "extensionName": {
+        "message": "希頂語を注入"
+    },
+    "extensionDescription": {
+        "message": "漢字に希頂語を付ける。"
+    },
+    "contextMenuItemDoInjectXdi8": {
+        "message": "希頂語を注入"
+    },
+    "popupCheckboxText": {
+        "message": "オート注入（<span class=\"inject-xdi8\" lang=\"art-x-xd\">t17i3 EkarAH</span>）"
+    },
+    "refreshPromptText": {
+        "message": "変更を有効にするには、ページを再読み込みしてください。"
+    }
+}

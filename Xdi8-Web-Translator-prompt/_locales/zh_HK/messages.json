@@ -1,0 +1,20 @@
+{
+    "langCode": {
+        "message": "zh-HK"
+    },
+    "extensionName": {
+        "message": "希頂語網頁翻譯（有提示）"
+    },
+    "extensionDescription": {
+        "message": "將頁面翻譯作希頂語，並點擊顯示漢字（若為超連結則懸停即可）"
+    },
+    "contextMenuItemDoInjectXdi8": {
+        "message": "希頂語網頁翻譯"
+    },
+    "popupCheckboxText": {
+        "message": "自動注入ruby等rom"
+    },
+    "refreshPromptText": {
+        "message": "請刷新頁面使更改生效。"
+    }
+}

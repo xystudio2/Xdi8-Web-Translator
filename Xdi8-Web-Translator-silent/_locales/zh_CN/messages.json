@@ -1,0 +1,20 @@
+{
+    "langCode": {
+        "message": "zh-CN"
+    },
+    "extensionName": {
+        "message": "希顶语网页翻译（不提示）"
+    },
+    "extensionDescription": {
+        "message": "将页面翻译作希顶语，首字母大写。不做提示。"
+    },
+    "contextMenuItemDoInjectXdi8": {
+        "message": "希顶语网页翻译"
+    },
+    "popupCheckboxText": {
+        "message": "自动注入ruby等rom"
+    },
+    "refreshPromptText": {
+        "message": "请刷新页面使更改生效。"
+    }
+}
