@@ -20,6 +20,10 @@ This modified version is inspired by some discussion by Lumiaisto. Thank you for
 
 Source of Xdi8 data is from Xdi8 language specification group, mainly produced by Kosmos. The Xdi8 font used in this extension is XEGOEALL.
 
+欢迎加入希顶讨论群（698545476）一起讨论ww
+
+We will be happy to see you join the Xdi8 discussion group (698545476)~
+
 ## Usage 使用
 
 这个软件分为两个版本（a.有提示 b.无提示）。
