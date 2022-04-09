@@ -41,9 +41,9 @@ The silent version only has the Xdi8 language version, capital letters are added
 ## Install 安装
 
 ### A. prompt
-[ZIP archive](xs)
+[ZIP archive](https://github.com/xystudio2/Xdi8-Web-Translator/blob/main/Xdi8-Web-Translator-prompt.rar)
 ### B. silent
-[ZIP archive](xs)
+[ZIP archive](https://github.com/xystudio2/Xdi8-Web-Translator/blob/main/Xdi8-Web-Translator-silent.zip)
 
 ## Screenshot 截图
 
@@ -51,4 +51,3 @@ The silent version only has the Xdi8 language version, capital letters are added
 ![](./a.png)
 ### B. silent
 ![](./b.png)
-
