@@ -36,14 +36,15 @@ The silent version only has the Xdi8 language version, capital letters are added
 
 ## Install 安装
 
-# A. prompt
+### A. prompt
 [ZIP archive](xs)
-# B. silent
+### B. silent
 [ZIP archive](xs)
 
 ## Screenshot 截图
 
-# A. prompt
+### A. prompt
 ![](./a.png)
-# B. silent
+### B. silent
 ![](./b.png)
+
